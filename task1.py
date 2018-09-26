@@ -16,6 +16,7 @@ mainHbox.addLayout(rightVbox)
 # Contains dropdowns, labels and buttons
 projectCategoryVbox = QtWidgets.QVBoxLayout()
 leftVbox.addLayout(projectCategoryVbox)
+
 # Projects Hbox
 projectsHbox = QtWidgets.QHBoxLayout()
 projectCategoryVbox.addLayout(projectsHbox)
